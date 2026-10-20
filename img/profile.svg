@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" role="img" aria-labelledby="title">
+  <title id="title">Ilustración geométrica para el portfolio</title>
+  <defs><linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#83d4ca"/><stop offset="1" stop-color="#7797f5"/></linearGradient></defs>
+  <circle cx="180" cy="180" r="160" fill="#1e3156"/>
+  <path d="M66 243c14-59 49-89 114-89s100 30 114 89v42H66z" fill="url(#g)"/>
+  <circle cx="180" cy="119" r="59" fill="#f1c6a5"/>
+  <path d="M120 113c5-54 30-81 70-81 39 0 64 30 63 76-20-12-36-29-46-48-21 27-50 45-87 53" fill="#172039"/>
+  <circle cx="159" cy="123" r="4" fill="#172039"/><circle cx="202" cy="123" r="4" fill="#172039"/>
+  <path d="M164 145c10 8 22 8 32 0" fill="none" stroke="#a65f57" stroke-linecap="round" stroke-width="4"/>
+</svg>
